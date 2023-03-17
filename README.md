@@ -1,8 +1,7 @@
-<!-- <p align="center"> <img src="https://i.gifer.com/5m5h.gif" alt="anubhav6488" /> </p> -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="800" width="1500">
 <h1 align="center">Hi 👋, I'm Anubhav Pratap Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav6488&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav6488" /> </p> -->
-<p align="left"> <img src="https://i.gifer.com/5m5h.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav6488&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav6488" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav6488" alt="anubhav6488" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack**
