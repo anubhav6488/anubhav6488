@@ -1,12 +1,6 @@
-
-
-
-
-
-<img src="https://i.gifer.com/xK.gif" width="1000" height="900"/>
-
 <h1 align="center">Hi 👋, I'm Anubhav Pratap Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img src="https://i.gifer.com/xK.gif" width="1000" height="900"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav6488&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav6488" /> </p>
 
