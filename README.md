@@ -1,5 +1,5 @@
 <!-- ![YQgT](https://user-images.githubusercontent.com/91564916/225845367-9c70d874-469e-4146-9826-6d81b85bcec2.gif) -->
-<img src="[https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://user-images.githubusercontent.com/91564916/225845367-9c70d874-469e-4146-9826-6d81b85bcec2.gif)" height="800" width="1500">
+<img src="https://user-images.githubusercontent.com/91564916/225845367-9c70d874-469e-4146-9826-6d81b85bcec2.gif" height="800" width="1500">
 <h1 align="center">Hi 👋, I'm Anubhav Pratap Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav6488&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav6488" /> </p>
