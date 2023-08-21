@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav6488" alt="anubhav6488" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack**
-
 - 👨‍💻 All of my projects are available at [https://github.com/anubhav6488](https://github.com/anubhav6488)
 
 - 📫 How to reach me **anubhavpratapsingh1306@gmail.com**
